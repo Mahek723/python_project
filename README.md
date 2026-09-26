@@ -24,7 +24,7 @@ The player interacts with fruits and tries to achieve a high score.
 
 ## 📸 Screenshot
 
-![Fruit Cutter Game](./fruit-cutter/Screenshot%20(443).png)
+![Fruit Cutter Game](./fruit-cutter/screenshot.png)
 
 ## ▶️ How to Run
 
