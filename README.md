@@ -34,5 +34,99 @@ Make sure Python is installed on your computer.
 
 ### 2. Install Pygame
 
-```bash
+
+pip install pygame
+
+# 🚗 Car Crash Dash
+
+A simple 2D car-dodging game built with Python and Pygame.
+
+The player controls a car and tries to avoid incoming enemy cars while the game becomes progressively more difficult.
+
+---
+
+## 🎮 Game Screenshot
+
+![Car Crash Dash](./dash_car/ScreenshotA.png)
+
+![Car Crash Dash](./dash_car/ScreenshotB.png)
+
+---
+
+## 🎯 About The Game
+
+In Car Crash Dash, the player controls a car on a three-lane road.
+
+Enemy cars continuously appear from the top of the screen and move downward. The player must move between lanes and avoid collisions.
+
+The game continues until the player's car crashes into an enemy car.
+
+---
+
+## ✨ Features
+
+- 🚗 Player-controlled car
+- 🛣️ Three-lane road
+- 🚘 Randomly generated enemy cars
+- 🌳 Moving roadside trees
+- 💥 Collision detection
+- 📊 Score system
+- 🏆 High score tracking
+- 📈 Increasing game difficulty
+- 🔄 Restart option after crashing
+- ⌨️ Keyboard controls
+- 🖥️ Simple Pygame graphical interface
+
+---
+
+## 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| `A` / `Left Arrow` | Move left |
+| `D` / `Right Arrow` | Move right |
+| `W` / `Up Arrow` | Move up |
+| `S` / `Down Arrow` | Move down |
+| `R` | Restart after crash |
+| `ESC` | Quit the game |
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pygame
+
+---
+
+## 📚 Python Concepts Used
+
+This project helped me practice several Python programming concepts:
+
+- Variables and data types
+- Conditional statements
+- Loops
+- Functions
+- Classes and objects
+- Lists
+- Random number generation
+- Event handling
+- Collision detection
+- Basic game logic
+- Object-oriented programming
+- Pygame graphics
+- Keyboard input
+- Game loop
+- Score calculation
+
+---
+## ▶️ How to Run
+
+### 1. Install Python
+
+Make sure Python is installed on your computer.
+
+### 2. Install Pygame
+
+
 pip install pygame
