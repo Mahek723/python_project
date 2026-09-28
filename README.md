@@ -139,7 +139,7 @@ In this game, the player controls a submarine and dives through the ocean while 
 
 ### 🎮 Game Screenshot
 
-![Deep Sea Diver](./deep-sea-diver/screenshot.png)
+![Deep Sea Diver](./deep_sea_drive/deep_sea_img.png)
 
 ### ✨ Features
 
