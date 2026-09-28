@@ -130,3 +130,67 @@ Make sure Python is installed on your computer.
 
 
 pip install pygame
+
+## 🌊 Deep Sea Diver
+
+A simple 2D underwater game built with Python and Pygame.
+
+In this game, the player controls a submarine and dives through the ocean while collecting treasure and avoiding falling anchors. The game becomes more challenging as the player's treasure score increases.
+
+### 🎮 Game Screenshot
+
+![Deep Sea Diver](./deep-sea-diver/screenshot.png)
+
+### ✨ Features
+
+- 🚢 Player-controlled submarine
+- 💰 Treasure collection system
+- ⚓ Falling anchor obstacles
+- 🫧 Animated underwater bubbles
+- 🌊 Ocean-themed game environment
+- 💥 Collision detection
+- 📊 Treasure score system
+- 🏆 High score tracking
+- 📈 Increasing difficulty
+- 🔄 Restart after game over
+- ⌨️ Keyboard controls
+
+### 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| `A` / `Left Arrow` | Move submarine left |
+| `D` / `Right Arrow` | Move submarine right |
+| `R` | Restart after game over |
+| `ESC` | Exit the game |
+
+### 🛠️ Technologies Used
+
+- Python
+- Pygame
+
+### 📚 Concepts Practiced
+
+This project helped me practice:
+
+- Variables and data types
+- Conditional statements
+- Loops
+- Functions
+- Classes and objects
+- Lists
+- Random number generation
+- Object-oriented programming
+- Keyboard event handling
+- Collision detection
+- Game loops
+- Score management
+- Difficulty progression
+- Pygame graphics
+
+### ⚙️ How to Run
+
+Install Pygame:
+
+```bash
+pip install pygame
